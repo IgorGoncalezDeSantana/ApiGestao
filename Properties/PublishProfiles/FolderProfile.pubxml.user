@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <History>True|2021-09-27T22:57:40.4190600Z;True|2021-08-16T23:06:13.1070704-03:00;True|2021-08-13T22:30:15.8550877-03:00;True|2021-08-13T22:26:04.9870271-03:00;True|2021-08-13T19:48:38.1088976-03:00;True|2021-08-13T19:36:38.4097005-03:00;True|2021-08-13T03:26:41.1480633-03:00;True|2021-08-13T03:24:29.9846618-03:00;True|2021-08-13T03:08:42.7311605-03:00;True|2021-08-13T02:05:30.1009308-03:00;False|2021-08-13T02:04:41.2787402-03:00;</History>
+    <_PublishTargetUrl>C:\Users\igor\Desktop\ApiGestao</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
